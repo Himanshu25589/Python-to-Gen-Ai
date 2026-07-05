@@ -1,1 +1,48 @@
 
+npm-init.txt
+Initializes a new Node.js project with a package.json.
+Creates the project configuration required for dependency management.
+
+npm-init-automatically.txt
+Initializes a Node.js project using default configuration.
+Skips interactive prompts for faster project setup.
+
+npm-install.txt
+Installs project dependencies listed in package.json.
+Downloads and manages packages inside the node_modules directory.
+
+npm-install-exact-version.txt
+Installs a package with an exact version number.
+Prevents automatic version upgrades for consistent builds.
+
+npm-install-globally.txt
+Installs a package globally on the system.
+Makes CLI tools accessible from any terminal location.
+
+npm-install-semantic-range.txt
+Installs packages using semantic version ranges.
+Allows compatible updates while maintaining version constraints.
+
+npm-outdated.txt
+Displays packages that have newer versions available.
+Helps identify dependencies requiring updates.
+
+npm-outdated-globally.txt
+Lists outdated globally installed npm packages.
+Helps keep global development tools up to date.
+
+npm-update-core.txt
+Updates core project dependencies to newer compatible versions.
+Keeps the project aligned with maintained package releases.
+
+npm-update-package.txt
+Updates a specific project dependency.
+Installs the latest version allowed by package.json.
+
+npm-update-package-globally.txt
+Updates a globally installed npm package.
+Ensures global CLI tools remain current.
+
+npm-version.txt
+Displays the installed npm version.
+Useful for verifying the development environment.
