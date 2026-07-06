@@ -1,0 +1,24 @@
+{
+  "name": "current-week",
+  "version": "1.0.11",
+  "description": "Shows the number, the date of the first and the date of the lasdt day or the current week.",
+  "main": "current-week.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "current",
+    "week",
+    "number",
+    "day",
+    "first",
+    "last"
+  ],
+  "author": "Niels Lange <info@nielslange.de>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "moment": "^2.22.2"
+  }
+}
