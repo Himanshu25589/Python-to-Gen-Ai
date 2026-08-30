@@ -128,12 +128,12 @@ https://github.com/Himanshu25589/AI-Video-Assistant
 - [x] Async Programming
 - [x] Pydantic
 - [x] Generative AI Fundamentals
-- [ ] LangChain
-- [ ] RAG
-- [ ] LangChain Runnables
-- [ ] AI Agents
-- [ ] Backend Engineering
-- [ ] Docker
+- [x] LangChain
+- [x] RAG
+- [x] LangChain Runnables
+- [x] AI Agents
+- [x] Backend Engineering
+- [x] Docker
 - [ ] PostgreSQL + pgvector
 - [ ] Hybrid Search
 - [ ] Evaluation
