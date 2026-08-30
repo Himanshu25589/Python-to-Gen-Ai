@@ -57,7 +57,7 @@ Building a strong programming foundation before moving into AI engineering.
 
 ---
 
-## AI Engineering *(Currently Active)*
+## AI Engineering 
 
 Understanding the core technologies behind modern LLM-powered applications.
 
@@ -71,7 +71,7 @@ Future modules will cover AI Agents, Model Context Protocol (MCP), Guardrails, B
 
 ---
 
-## Backend Engineering *(Planned)*
+## Backend Engineering *(Currently Active)*
 
 Building the backend infrastructure commonly used in production AI systems.
 
